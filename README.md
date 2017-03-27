@@ -4,3 +4,7 @@
 # Chapter1 ネットワークの基礎知識
 
 [https://github.com/keitin/Basic_Network/issues/1](https://github.com/keitin/Basic_Network/issues/1)
+
+# Chapter2 TCP/IPの基礎知識
+
+[https://github.com/keitin/Basic_Network/issues/2](https://github.com/keitin/Basic_Network/issues/2)
